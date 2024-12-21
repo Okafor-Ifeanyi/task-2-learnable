@@ -24,7 +24,7 @@ Version control is a system that records changes to one or more files or collect
 ### Explain difference between git and github
 | Git | Github |
 |----------|----------|
-| Git is a popular version controller that tracks code changes, who made the change and collaboration     | Github is a code hosting application for version control and collaboration, it lets you and others work together on projects from anywhere. |
+| Git is a popular version control system that tracks code changes, who made the change and collaboration     | Github is a code hosting application for version control and collaboration, it lets you and others work together on projects from anywhere. |
 
 ### List 3 other github alternatives
 1. Gitlab
