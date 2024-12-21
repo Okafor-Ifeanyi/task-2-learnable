@@ -51,4 +51,5 @@ __git cherry-pick:__ This command is used to apply the changes introduced by som
 cmd - `git cherry-pick <commit-hash>`
 
 
->> _Author: *Okafor Ifeanyi*_
+>> _Author: *Okafor Ifeanyi*_ <br>
+>> Check Out My [LinkedIn](www.linkedin.com/in/ifeanyi-okafor-bio)
